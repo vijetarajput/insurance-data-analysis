@@ -94,4 +94,5 @@ The **Tableau dashboard** provides a clean, interactive view of how various cust
 ## Author
 
 **Vijeta** – Junior Data Analyst  
-Tools: Python | Tableau | SQL | Power BI | Excel
+Tools: Python | Tableau | SQL | Power BI  | Excel
+[🔗 Connect on LinkedIn](https://www.linkedin.com/in/viijetar/)
